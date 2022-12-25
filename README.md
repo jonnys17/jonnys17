@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jonnys17
-- 👀 I’m interested in kubernetes, networks and SRE
-- 🌱 I’m currently learning public clouds and SRE
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @oujonny
+- 👀 I’m interested in kubernetes, terraform and SRE
+- 🌱 I’m currently learning public clouds (AWS & Azure) and SRE
+- 💞️ I’m looking to collaborate on cloud native open source projects
 - 📫 You can reach me at jonny@immerda.ch
 
 <!---
